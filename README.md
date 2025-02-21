@@ -16,13 +16,13 @@ Videoboxd is a Youtube review and social networking platform for Youtube lovers.
 - Hafizhun Soekiswo: Frontend & Backend
 
 # 🔗 Links
-Videoboxd is live at https://checkcafe.com
+Videoboxd is live at https://checkcafe.com\
 Backend API is at https://api.checkcafe.com
 
 Repositories:
-General: https://github.com/videoboxd/videoboxd
-Backend: https://github.com/videoboxd/videoboxd-api
-Frontend: https://github.com/videoboxd/videoboxd-web
+- General: https://github.com/videoboxd/videoboxd
+- Backend: https://github.com/videoboxd/videoboxd-api
+- Frontend: https://github.com/videoboxd/videoboxd-web
 
 # 🔎 Inspirations
 - [Letterboxd](https://letterboxd.com)
