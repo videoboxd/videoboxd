@@ -21,9 +21,9 @@ Videoboxd is a social video review platform. It lets you search interesting vide
 
 ## 🔗 Links
 
-Videoboxd Frontend Web is live at <https://checkcafe.com>
+Videoboxd Frontend Web is live at <https://videoboxd.com>
 
-Backend API is at <https://api.checkcafe.com>
+Backend API is at <https://api.videoboxd.com>
 
 Repositories:
 
