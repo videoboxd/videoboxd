@@ -36,6 +36,10 @@ Repositories:
 - [Letterboxd](https://letterboxd.com)
 - [Goodreads](https://goodreads.com)
 
+## Presentation Slide
+
+<https://www.figma.com/slides/ZmcfZ9487epFsIIll9WGU2/Videoboxd-Presentation-Slide?node-id=4177-20&t=bAw2PHob51OhQTLW-1>
+
 ## 🎨 UI Designs
 
 UI Design on Figma: <https://figma.com/design/d4PPI9RnS1iZTUPnciR0eR/Videoboxd.com-UI-Design>
